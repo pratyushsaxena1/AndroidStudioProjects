@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="greeting">Hey User</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="change_name">Change Name</string>
+    <string name="radio_label_down">Down</string>
+    <string name="radio_label_up">Up</string>
+    <string name="radio_label_food">Food</string>
+    <string name="radio_label_planets">Planets</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string-array name="planets_array">
+        <item>Mercury (1)</item>
+        <item>Venus (2)</item>
+        <item>Earth (3)</item>
+        <item>Mars (4)</item>
+        <item>Jupiter (5)</item>
+        <item>Saturn (6)</item>
+        <item>Uranus (7)</item>
+    </string-array>
+    <string-array name="food_array">
+        <item>Brownie (1)</item>
+        <item>Pizza (2)</item>
+        <item>Ramen (3)</item>
+        <item>Burger (4)</item>
+        <item>Chicken (5)</item>
+        <item>Bread (6)</item>
+        <item>Popsicle (7)</item>
+    </string-array>
+</resources>

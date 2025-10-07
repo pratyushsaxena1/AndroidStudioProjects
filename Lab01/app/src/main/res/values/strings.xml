@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">This is Pratyush\'s Fun App</string>
+    <string name="increment">Increment</string>
+    <string name="main_text">This is Pratyush\'s incrementing and decrementing app</string>
+    <string name="decrement">Decrement</string>
+    <color name="pink">#d9848e</color>
+</resources>
